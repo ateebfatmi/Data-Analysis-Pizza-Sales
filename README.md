@@ -31,9 +31,6 @@ This project analyzes pizza sales data using SQL, Python, Pandas, and Streamlit.
 - Total Pizzas Sold
 - Average Order Value
 
-## Dashboard Preview
-(Add screenshots here)
-
 ## How to Run
 
 pip install -r requirements.txt
